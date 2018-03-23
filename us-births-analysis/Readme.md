@@ -17,3 +17,10 @@ Header | Definition
 `date_of_month` | Day number of the month
 `day_of_week` | Day of week, where 1 is Monday and 7 is Sunday
 `births` | Number of births
+
+The Jupyter notebook contains some basics analysis on both datasets, including: 
+
+- U.S. births counts by period (year, month of a year, day of a month, day of a week)
+- Least and most births counts by granularity 
+- Trend analysis: same values from different periods
+- Difference of births counts each year between the 2 datasets (in percentage)
